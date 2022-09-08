@@ -1,0 +1,28 @@
+{
+  "name": "packed-enumerated-indices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuiltByFrancis/packed-enumerated-indices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuiltByFrancis/packed-enumerated-indices/issues"
+  },
+  "homepage": "https://github.com/BuiltByFrancis/packed-enumerated-indices#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "hardhat": "^2.11.1",
+    "hardhat-gas-reporter": "^1.0.9"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
